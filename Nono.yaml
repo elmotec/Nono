@@ -1,14 +1,14 @@
 scheme: "Nono"
 author: "elmotec"
 
-base00: "2A414D"  # default background
-base01: "395869"  # Lighter Background (Used for status bars, line number and folding marks)
-base02: "000000"  # Selection Background
-base03: "83B36B"  # Comments, Invisibles, Line Highlighting
-base04: "999999"  # Dark Foreground (Used for status bars)
-base05: "ABABAB"  # Default Foreground, Caret, Delimiters, Operators
-base06: "CCCCCC"  # Light Foreground (Not often used)
-base07: "566F80"  # Light Background (Not often used)
+base00: "2a4759"  # default background
+base01: "4a677c"  # Lighter Background (Used for status bars, line number and folding marks)
+base02: "597b8f"  # Selection Background
+base03: "84a0b0"  # Comments, Invisibles, Line Highlighting
+base04: "9cb1be"  # Dark Foreground (Used for status bars)
+base05: "b5c6ce"  # Default Foreground, Caret, Delimiters, Operators
+base06: "ccd7dc"  # Light Foreground (Not often used)
+base07: "e6ece6"  # Light Background (Not often used)
 
 base08: "CC7A7A"  # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted (Red)
 base09: "B38324"  # Integers, Boolean, Constants, XML Attributes, Markup Link Url
