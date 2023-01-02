@@ -3,22 +3,23 @@ author: "elmotec"
 
 # Generated with the help of https://colorkit.co
 
-# https://colorkit.co/palette/2a414d-476068-9ebbb6-706e59-d4c8b3-c4e3d8-e2f1ec-ffffff/
-base00: "2a414d"  # default background
-base01: "476068"  # Lighter Background (Used for status bars, line number and folding marks)
-base02: "9ebbb6"  # Selection Background
-base03: "706e59"  # Comments, Invisibles, Line Highlighting
-base04: "d4c8b3"  # Dark Foreground (Used for status bars)
-base05: "c4e3d8"  # Default Foreground, Caret, Delimiters, Operators
-base06: "e2f1ec"  # Light Foreground (Not often used)
-base07: "ffffff"  # Light Background (Not often used)
+# https://colorkit.co/palette/2a414d-455b68-5e7481-788c9a-91a5b3-aabdcd-c4d6e6-ddeeff/
+# https://colorkit.co/palette/1b3340-384f5d-546a78-6f8493-8b9fae-a6b9c9-c2d4e4-ddeeff/
+base00: "1b3340"  # default background
+base01: "384f5d"  # Lighter Background (Used for status bars, line number and folding marks)
+base02: "546a78"  # Selection Background
+base03: "6f8493"  # Comments, Invisibles, Line Highlighting
+base04: "8b9fae"  # Dark Foreground (Used for status bars)
+base05: "a6b9c9"  # Default Foreground, Caret, Delimiters, Operators (Ansi White)
+base06: "d2d4e4"  # Light Foreground (Not often used)
+base07: "ddeeff"  # Light Background (Not often used)
 
-# https://colorkit.co/palette/c7522a-e0b460-dede3e-77bf77-d1b7d4-7d96c6-c67d96-476fb3/
-base08: "c7522a"  # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted (Red)
-base09: "e0b460"  # Integers, Boolean, Constants, XML Attributes, Markup Link Url
-base0A: "dede3e"  # Classes, Markup Bold, Search Text Background
-base0B: "77bf77"  # Strings, Inherited Class, Markup Code, Diff Inserted (Green)
-base0C: "d1b7d4"  # Support, Regular Expressions, Escape Characters, Markup Quotes
-base0D: "7d96c6"  # Functions, Methods, Attribute IDs, Headings
-base0E: "c67d96"  # Keywords, Storage, Selector, Markup Italic, Diff Changed
-base0F: "476fb3"  # Deprecated, Opening/Closing Embedded Language Tags, e.g. <?php ?>
+# https://colorkit.co/palette/c7522a-b5b532-83c0c2-77bf77-578bb4-2b56a6-cc829c-406940/
+base08: "c7522a"  # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted (Ansi Red)
+base09: "b5b532"  # Integers, Boolean, Constants, XML Attributes, Markup Link Url (Ansi BrightRed)
+base0A: "83c0c2"  # Classes, Markup Bold, Search Text Background (Ansi Yellow)
+base0B: "77bf77"  # Strings, Inherited Class, Markup Code, Diff Inserted, links background (Ansi Green)
+base0C: "578bb4"  # Support, Regular Expressions, Escape Characters, Markup Quotes (Ansi Cyan)
+base0D: "2b56a6"  # Functions, Methods, Attribute IDs, Headings, links foreground (Ansi Blue)
+base0E: "cc829c"  # Keywords, Storage, Selector, Markup Italic, Diff Changed (Ansi Magenta)
+base0F: "406940"  # Deprecated, Opening/Closing Embedded Language Tags, e.g. <?php ?> (Ansi White)
