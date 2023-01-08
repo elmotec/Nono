@@ -3,7 +3,6 @@ author: "elmotec"
 
 # Generated with the help of https://colorkit.co
 
-# https://colorkit.co/palette/2a414d-455b68-5e7481-788c9a-91a5b3-aabdcd-c4d6e6-ddeeff/
 # https://colorkit.co/palette/1b3340-384f5d-546a78-6f8493-8b9fae-a6b9c9-c2d4e4-ddeeff/
 base00: "1b3340"  # default background
 base01: "384f5d"  # Lighter Background (Used for status bars, line number and folding marks)
@@ -14,12 +13,12 @@ base05: "a6b9c9"  # Default Foreground, Caret, Delimiters, Operators (Ansi White
 base06: "d2d4e4"  # Light Foreground (Not often used)
 base07: "ddeeff"  # Light Background (Not often used)
 
-# https://colorkit.co/palette/c7522a-be842e-b5b532-77bf77-83c0c2-578bb4-cc829c-406940/
+# https://colorkit.co/palette/c7522a-b3782b-9e9e2b-77bf77-83c0c2-62a1bb-4181b3-406940/
 base08: "c7522a"  # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted (Ansi Red)
-base09: "be842e"  # Integers, Boolean, Constants, XML Attributes, Markup Link Url (Ansi BrightRed)
-base0A: "b5b532"  # Classes, Markup Bold, Search Text Background (Ansi Yellow)
+base09: "b3782b"  # Integers, Boolean, Constants, XML Attributes, Markup Link Url (Ansi BrightRed)
+base0A: "9e9e2b"  # Classes, Markup Bold, Search Text Background (Ansi Yellow)
 base0B: "77bf77"  # Strings, Inherited Class, Markup Code, Diff Inserted, links background (Ansi Green)
-base0C: "83c0c2 "  # Support, Regular Expressions, Escape Characters, Markup Quotes (Ansi Cyan)
-base0D: "578bb4"  # Functions, Methods, Attribute IDs, Headings, links foreground (Ansi Blue)
-base0E: "cc829c"  # Keywords, Storage, Selector, Markup Italic, Diff Changed (Ansi Magenta)
+base0C: "83c0c2"  # Support, Regular Expressions, Escape Characters, Markup Quotes (Ansi Cyan)
+base0D: "62a1bb"  # Functions, Methods, Attribute IDs, Headings, links foreground (Ansi Blue)
+base0E: "4181b3"  # Keywords, Storage, Selector, Markup Italic, Diff Changed (Ansi Magenta)
 base0F: "406940"  # Deprecated, Opening/Closing Embedded Language Tags, e.g. <?php ?> (Ansi White)
