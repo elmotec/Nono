@@ -14,12 +14,12 @@ base05: "a6b9c9"  # Default Foreground, Caret, Delimiters, Operators (Ansi White
 base06: "d2d4e4"  # Light Foreground (Not often used)
 base07: "ddeeff"  # Light Background (Not often used)
 
-# https://colorkit.co/palette/c7522a-b5b532-83c0c2-77bf77-578bb4-2b56a6-cc829c-406940/
+# https://colorkit.co/palette/c7522a-be842e-b5b532-77bf77-83c0c2-578bb4-cc829c-406940/
 base08: "c7522a"  # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted (Ansi Red)
-base09: "b5b532"  # Integers, Boolean, Constants, XML Attributes, Markup Link Url (Ansi BrightRed)
-base0A: "83c0c2"  # Classes, Markup Bold, Search Text Background (Ansi Yellow)
+base09: "be842e"  # Integers, Boolean, Constants, XML Attributes, Markup Link Url (Ansi BrightRed)
+base0A: "b5b532"  # Classes, Markup Bold, Search Text Background (Ansi Yellow)
 base0B: "77bf77"  # Strings, Inherited Class, Markup Code, Diff Inserted, links background (Ansi Green)
-base0C: "578bb4"  # Support, Regular Expressions, Escape Characters, Markup Quotes (Ansi Cyan)
-base0D: "2b56a6"  # Functions, Methods, Attribute IDs, Headings, links foreground (Ansi Blue)
+base0C: "83c0c2 "  # Support, Regular Expressions, Escape Characters, Markup Quotes (Ansi Cyan)
+base0D: "578bb4"  # Functions, Methods, Attribute IDs, Headings, links foreground (Ansi Blue)
 base0E: "cc829c"  # Keywords, Storage, Selector, Markup Italic, Diff Changed (Ansi Magenta)
 base0F: "406940"  # Deprecated, Opening/Closing Embedded Language Tags, e.g. <?php ?> (Ansi White)
