@@ -1,0 +1,24 @@
+scheme: "nono-dark"
+author: "elmotec"
+
+# Generated with the help of https://colorkit.co
+
+# https://colorkit.co/palette/c2d4e4-a6b9c9-8b9fae-6f8493-546a78-384f5d-1b3340-0e1a20/
+base00: "c2d4e4"  # default background
+base01: "a6b9c9"  # Lighter Background (Used for status bars, line number and folding marks)
+base03: "8b9fae"  # Selection Background
+base04: "6f8493"  # Comments, Invisibles, Line Highlighting
+base05: "546a78"  # Dark Foreground (Used for status bars)
+base06: "384f5d"  # Default Foreground, Caret, Delimiters, Operators (Ansi White)
+base07: "1b3340"  # Light Foreground (Not often used)
+base07: "0e1a20"  # Light Background (Not often used)
+
+# https://colorkit.co/palette/c7522a-b3782b-9e9e2b-77bf77-83c0c2-62a1bb-4181b3-406940/
+base08: "c7522a"  # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted (Ansi Red)
+base09: "b3782b"  # Integers, Boolean, Constants, XML Attributes, Markup Link Url (Ansi BrightRed)
+base0A: "9e9e2b"  # Classes, Markup Bold, Search Text Background (Ansi Yellow)
+base0B: "77bf77"  # Strings, Inherited Class, Markup Code, Diff Inserted, links background (Ansi Green)
+base0C: "83c0c2"  # Support, Regular Expressions, Escape Characters, Markup Quotes (Ansi Cyan)
+base0D: "62a1bb"  # Functions, Methods, Attribute IDs, Headings, links foreground (Ansi Blue)
+base0E: "4181b3"  # Keywords, Storage, Selector, Markup Italic, Diff Changed (Ansi Magenta)
+base0F: "406940"  # Deprecated, Opening/Closing Embedded Language Tags, e.g. <?php ?> (Ansi White)
