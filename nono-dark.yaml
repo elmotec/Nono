@@ -13,12 +13,12 @@ base05: "a6b9c9"  # Default Foreground, Caret, Delimiters, Operators (Ansi White
 base06: "d2d4e4"  # Light Foreground (Not often used)
 base07: "ddeeff"  # Light Background (Not often used)
 
-# https://colorkit.co/palette/c7522a-b3782b-9e9e2b-77bf77-83c0c2-326ac2-7681ad-406940/
-base08: "c7522a"  # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted (Ansi Red)
-base09: "b3782b"  # Integers, Boolean, Constants, XML Attributes, Markup Link Url (Ansi BrightRed)
+# https://colorkit.co/palette/b37c71-c75757-9e9e2b-77bf77-83c0c2-3876d9-5b95c2-4b7a4b/
+base08: "b37c71"  # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted (Ansi Red)
+base09: "c75757"  # Integers, Boolean, Constants, XML Attributes, Markup Link Url (Ansi BrightRed)
 base0A: "9e9e2b"  # Classes, Markup Bold, Search Text Background (Ansi Yellow)
 base0B: "77bf77"  # Strings, Inherited Class, Markup Code, Diff Inserted, links background (Ansi Green)
 base0C: "83c0c2"  # Support, Regular Expressions, Escape Characters, Markup Quotes (Ansi Cyan)
-base0D: "326ac2"  # Functions, Methods, Attribute IDs, Headings, links foreground (Ansi Blue)
-base0E: "7681ad"  # Keywords, Storage, Selector, Markup Italic, Diff Changed (Ansi Magenta)
-base0F: "406940"  # Deprecated, Opening/Closing Embedded Language Tags, e.g. <?php ?> (Ansi White)
+base0D: "3876d9"  # Functions, Methods, Attribute IDs, Headings, links foreground (Ansi Blue)
+base0E: "5b95c2"  # Keywords, Storage, Selector, Markup Italic, Diff Changed (Ansi Magenta)
+base0F: "4b7a4b"  # Deprecated, Opening/Closing Embedded Language Tags, e.g. <?php ?> (Ansi White)
