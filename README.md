@@ -1,5 +1,28 @@
 # Base16 - Nono
 
-nono is a theme created for [Base16](https://github.com/chriskempson/base16). Feel free to do with it as you please.
+Nono is a theme created for [Base16](https://github.com/chriskempson/base16).
+See the Base16 project for instructions on how to use it.
 
-It is inspired by colors I am familiar with (blue/green) and easy on the eye in both dark and light background.
+Nono leans dark blue/green, generally tends to use cool colors and eschew
+bright colors (except for red).  I find it works equally well in good or
+dark lighting conditions.
+
+Screenshots below:
+
+## colortest
+
+![colortest](colortest.png)
+
+## c++
+
+![c++](c++.png)
+
+## python
+
+![python](python.png)
+
+## Credits
+
+Thanks to [ColorKit](https://colorkit.co/) for helping with the
+[nono-dark.yaml](palettes).
+
