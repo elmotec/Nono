@@ -13,14 +13,6 @@ Screenshots below:
 
 ![colortest](colortest.png)
 
-## c++
-
-![c++](c++.png)
-
-## python
-
-![python](python.png)
-
 ## Credits
 
 Thanks to [ColorKit](https://colorkit.co/) for helping with the

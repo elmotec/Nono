@@ -13,9 +13,9 @@ base05: "a6b9c9"  # Default Foreground, Caret, Delimiters, Operators (Ansi White
 base06: "d2d4e4"  # Light Foreground (Not often used)
 base07: "ddeeff"  # Light Background (Not often used)
 
-# https://colorkit.co/palette/b37c71-c75757-9e9e2b-77bf77-83c0c2-3876d9-5b95c2-4b7a4b/
-base08: "b37c71"  # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted (Ansi Red)
-base09: "c75757"  # Integers, Boolean, Constants, XML Attributes, Markup Link Url (Ansi BrightRed)
+# https://colorkit.co/palette/b36b6b-d4a75e-9e9e2b-77bf77-83c0c2-3876d9-5b95c2-4b7a4b/
+base08: "b36b6b"  # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted (Ansi Red)
+base09: "d4a75e"  # Integers, Boolean, Constants, XML Attributes, Markup Link Url (Ansi BrightRed)
 base0A: "9e9e2b"  # Classes, Markup Bold, Search Text Background (Ansi Yellow)
 base0B: "77bf77"  # Strings, Inherited Class, Markup Code, Diff Inserted, links background (Ansi Green)
 base0C: "83c0c2"  # Support, Regular Expressions, Escape Characters, Markup Quotes (Ansi Cyan)
