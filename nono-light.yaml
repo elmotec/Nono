@@ -1,0 +1,24 @@
+scheme: "nono-light"
+author: "elmotec"
+
+# Generated with the help of https://colorkit.co
+
+# https://colorkit.co/palette/ddeeff-d2d4e4-a6b9c9-8b9fae-6f8493-546a78-384f5d-1b3340
+base00: "ddeeff"  # See nono-dark for description.
+base01: "d2d4e4"
+base02: "a6b9c9"
+base03: "8b9fae"
+base04: "6f8493"
+base05: "546a78"
+base06: "384f5d"
+base07: "1b3340"
+
+# https://colorkit.co/palette/b36b6b-d4a75e-9e9e2b-77bf77-83c0c2-3876d9-5b95c2-4b7a4b/
+base08: "b36b6b"  # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted (Ansi Red)
+base09: "d4a75e"  # Integers, Boolean, Constants, XML Attributes, Markup Link Url (Ansi BrightRed)
+base0A: "9e9e2b"  # Classes, Markup Bold, Search Text Background (Ansi Yellow)
+base0B: "77bf77"  # Strings, Inherited Class, Markup Code, Diff Inserted, links background (Ansi Green)
+base0C: "83c0c2"  # Support, Regular Expressions, Escape Characters, Markup Quotes (Ansi Cyan)
+base0D: "3876d9"  # Functions, Methods, Attribute IDs, Headings, links foreground (Ansi Blue)
+base0E: "5b95c2"  # Keywords, Storage, Selector, Markup Italic, Diff Changed (Ansi Magenta)
+base0F: "4b7a4b"  # Deprecated, Opening/Closing Embedded Language Tags, e.g. <?php ?> (Ansi White)

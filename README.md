@@ -7,6 +7,8 @@ Nono leans dark blue/green, generally tends to use cool colors and eschew
 bright colors (except for red).  I find it works equally well in good or
 dark lighting conditions.
 
+Nono light is the light background version of it.
+
 Screenshots below:
 
 ## colortest
